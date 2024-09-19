@@ -5,7 +5,7 @@ public class TipCalculator {
     public static String calculateTip(int people, int percent, double cost) { //You must use these  variable in your calculations
         //DO NOT DELETE ANY OF THE CODE BELOW      
         StringBuilder result = new StringBuilder();
-
+        //your code here
                        
         result.append("-------------------------------\n");
         result.append("Total bill before tip: "); //concatenate to this string. DO NOT ERASE AND REWRITE
