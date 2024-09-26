@@ -5,6 +5,7 @@ import java.math.RoundingMode;
 
 public class TipCalculator {
     //WRITE YOUR PROGRAM IN calculateTip
+    // This is where i learned how to use big decimal from https://medium.com/quick-code/how-to-use-bigdecimal-in-java-accurately-f71ae959f9da
     public static String calculateTip(int people, int percent, double cost) { //You must use these  variable in your calculations
         //DO NOT DELETE ANY OF THE CODE BELOW      
         StringBuilder result = new StringBuilder();
